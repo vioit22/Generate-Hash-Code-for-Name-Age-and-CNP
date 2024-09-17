@@ -1,0 +1,14 @@
+d:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for Written Inputs\bin\Debug\net8.0\Hash Code for Written Inputs.exe
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for Written Inputs\bin\Debug\net8.0\Hash Code for Written Inputs.deps.json
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for Written Inputs\bin\Debug\net8.0\Hash Code for Written Inputs.runtimeconfig.json
+d:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for Written Inputs\bin\Debug\net8.0\Hash Code for Written Inputs.dll
+d:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for Written Inputs\bin\Debug\net8.0\Hash Code for Written Inputs.pdb
+d:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for Written Inputs\obj\Debug\net8.0\Hash Code for Written Inputs.GeneratedMSBuildEditorConfig.editorconfig
+d:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for Written Inputs\obj\Debug\net8.0\Hash Code for Written Inputs.AssemblyInfoInputs.cache
+d:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for Written Inputs\obj\Debug\net8.0\Hash Code for Written Inputs.AssemblyInfo.cs
+d:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for Written Inputs\obj\Debug\net8.0\Hash Code for Written Inputs.csproj.CoreCompileInputs.cache
+d:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for Written Inputs\obj\Debug\net8.0\Hash Code for Written Inputs.dll
+d:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for Written Inputs\obj\Debug\net8.0\refint\Hash Code for Written Inputs.dll
+d:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for Written Inputs\obj\Debug\net8.0\Hash Code for Written Inputs.pdb
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for Written Inputs\obj\Debug\net8.0\Hash Code for Written Inputs.genruntimeconfig.cache
+D:\Proiecte WebSite-uri si Programare\Proiecte Programare in C#\Hash Code for Written Inputs\obj\Debug\net8.0\ref\Hash Code for Written Inputs.dll

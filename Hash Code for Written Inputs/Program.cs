@@ -1,0 +1,16 @@
+﻿Console.WriteLine("Welcome to Generator of Hash Code based on Name, Age and CNP! Press Enter to continue...");
+Console.ReadLine();
+string one = "";
+Console.WriteLine("Enter the name to show Hash Code for name entered:");
+Console.ReadLine();
+Console.WriteLine(one.GetHashCode());
+string two = " ";
+Console.WriteLine("Enter the age to show Hash Code for age entered:");
+Console.ReadLine();
+Console.WriteLine(two.GetHashCode());
+string three = "  ";
+Console.WriteLine("Enter the CNP to generate Hash Code for CNP entered:");
+Console.ReadLine();
+Console.WriteLine(three.GetHashCode());
+Console.WriteLine("Press Enter to exit the program... Developed by Vio IT");
+Console.ReadLine();
